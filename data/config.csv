@@ -1,0 +1,14 @@
+Variable,Category,Prior,Beta_Init,Beta_Min,Beta_Max,Parameter_A_Init,Parameter_A_Min,Parameter_A_Max,Parameter_B_Init,Parameter_B_Min,Parameter_B_Max
+revenue,KPI,,,,,,,,,,
+base_revenue,BASE,10000,1,0.1,1000,,,,,,
+google_performance_max,MEDIA,10000,10,0.1,1000,1,0.1,2,2,0.1,1000
+google_search_brand,MEDIA,10000,10,0.1,1000,1,0.1,2,2,0.1,1000
+google_search_no_brand,MEDIA,10000,10,0.1,1000,1,0.1,2,2,0.1,1000
+facebook_conversions,MEDIA,10000,5,0.1,1000,1,0.1,2,2,0.1,1000
+facebook_others,MEDIA,10000,5,0.1,1000,1,0.1,2,2,0.1,1000
+facebook_product_catalog_sales,MEDIA,10000,5,0.1,1000,1,0.1,2,5,0.1,1000
+influencers,MEDIA,10000,5,0.1,1000,1,0.1,2,5,0.1,1000
+display_ads,MEDIA,10000,1,0.1,1000,1,0.1,2,30,0.1,1000
+tv_ads,MEDIA,10000,1,0.1,1000,1,0.1,2,30,0.1,1000
+radio_ads,MEDIA,10000,1,0.1,1000,1,0.1,2,30,0.1,1000
+magazine_ads,MEDIA,10000,1,0.1,1000,1,0.1,2,30,0.1,1000
